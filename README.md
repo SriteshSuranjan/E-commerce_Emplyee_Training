@@ -1,7 +1,3 @@
-# Certainly! Here's a **README** file for your E-commerce Client Training Project:
-
----
-
 # E-commerce Client Training Project Using Linear Regression
 
 ## Overview
@@ -131,6 +127,3 @@ The analysis suggests that:
 
 For any questions or issues, please refer to the documentation or contact the project maintainers.
 
----
-
-Feel free to adjust any section as needed to better fit your project specifics!

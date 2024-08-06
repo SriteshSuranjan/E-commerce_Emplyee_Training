@@ -1,4 +1,4 @@
-# E-commerce Client Training Project Using Linear Regression
+# E-commerce Client Training Project
 
 ## Overview
 
